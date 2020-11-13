@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1032736406109",
+    "firebase_url": "https://notblind-343.firebaseio.com",
+    "project_id": "notblind-343",
+    "storage_bucket": "notblind-343.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032736406109:android:9f558276d880bcb7d26bb4",
+        "android_client_info": {
+          "package_name": "ml.notblind.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032736406109-ootk9ecoqsi2ucrlvs0ah3ke5suk0p8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ml.notblind.myapp",
+            "certificate_hash": "fd8e9a4bf8cdcd4c3781892bb1184ec9f673a3f4"
+          }
+        },
+        {
+          "client_id": "1032736406109-8d0ujatqed79nece1gf2g698pb5k2c89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmpruMie-6FoRVrBVEEdZ2hmZ9tUuRvPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032736406109-8d0ujatqed79nece1gf2g698pb5k2c89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
